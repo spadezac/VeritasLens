@@ -68,7 +68,7 @@ def get_xray_html(text):
 # =================================================================
 # 3. STREAMLIT UI LAYOUT
 # =================================================================
-st.set_page_config(page_title="VeritasLens AI", layout="wide", page_icon="🔬")
+st.set_page_config(page_title="VeritasLens AI", layout="wide")
 
 # Sidebar - Research Stats
 with st.sidebar:
